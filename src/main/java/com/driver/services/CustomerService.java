@@ -8,7 +8,7 @@ import com.driver.model.Driver;
 import com.driver.model.TripBooking;
 
 
-public interface CustomerService {
+public interface  CustomerService {
 
 	public void register(Customer customer);
 
